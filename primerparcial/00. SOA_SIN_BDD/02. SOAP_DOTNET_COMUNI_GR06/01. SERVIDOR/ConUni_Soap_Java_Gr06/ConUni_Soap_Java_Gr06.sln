@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConUni_Soap_Java_Gr06", "ConUni_Soap_Java_Gr06.csproj", "{3B2484A0-9E20-4AB4-98B3-390639352D72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B2484A0-9E20-4AB4-98B3-390639352D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2484A0-9E20-4AB4-98B3-390639352D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2484A0-9E20-4AB4-98B3-390639352D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2484A0-9E20-4AB4-98B3-390639352D72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DE1CBD4-2C0B-4D90-924B-54EB7AF921A5}
+	EndGlobalSection
+EndGlobal

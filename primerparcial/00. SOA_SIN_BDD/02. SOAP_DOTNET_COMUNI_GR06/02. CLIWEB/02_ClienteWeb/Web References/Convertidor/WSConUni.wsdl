@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:tns="http://tempuri.org/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ConvertirCentimetrosAPulgadas">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="centimetros" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConvertirCentimetrosAPulgadasResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ConvertirCentimetrosAPulgadasResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConvertirPulgadasACentimetros">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="pulgadas" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConvertirPulgadasACentimetrosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ConvertirPulgadasACentimetrosResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ConvertirCentimetrosAPulgadasSoapIn">
+    <wsdl:part name="parameters" element="tns:ConvertirCentimetrosAPulgadas" />
+  </wsdl:message>
+  <wsdl:message name="ConvertirCentimetrosAPulgadasSoapOut">
+    <wsdl:part name="parameters" element="tns:ConvertirCentimetrosAPulgadasResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConvertirPulgadasACentimetrosSoapIn">
+    <wsdl:part name="parameters" element="tns:ConvertirPulgadasACentimetros" />
+  </wsdl:message>
+  <wsdl:message name="ConvertirPulgadasACentimetrosSoapOut">
+    <wsdl:part name="parameters" element="tns:ConvertirPulgadasACentimetrosResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WSConUniSoap">
+    <wsdl:operation name="ConvertirCentimetrosAPulgadas">
+      <wsdl:input message="tns:ConvertirCentimetrosAPulgadasSoapIn" />
+      <wsdl:output message="tns:ConvertirCentimetrosAPulgadasSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConvertirPulgadasACentimetros">
+      <wsdl:input message="tns:ConvertirPulgadasACentimetrosSoapIn" />
+      <wsdl:output message="tns:ConvertirPulgadasACentimetrosSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSConUniSoap" type="tns:WSConUniSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ConvertirCentimetrosAPulgadas">
+      <soap:operation soapAction="http://tempuri.org/ConvertirCentimetrosAPulgadas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConvertirPulgadasACentimetros">
+      <soap:operation soapAction="http://tempuri.org/ConvertirPulgadasACentimetros" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSConUniSoap12" type="tns:WSConUniSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ConvertirCentimetrosAPulgadas">
+      <soap12:operation soapAction="http://tempuri.org/ConvertirCentimetrosAPulgadas" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConvertirPulgadasACentimetros">
+      <soap12:operation soapAction="http://tempuri.org/ConvertirPulgadasACentimetros" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSConUni">
+    <wsdl:port name="WSConUniSoap" binding="tns:WSConUniSoap">
+      <soap:address location="https://localhost:44312/WSConUni.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSConUniSoap12" binding="tns:WSConUniSoap12">
+      <soap12:address location="https://localhost:44312/WSConUni.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,7 @@
+C:\00. SOA_SIN_BDD\02. SOAP_DOTNET_COMUNI_GR06\02. CLICON\02_ClienteConsola\bin\Debug\02_ClienteConsola.exe.config
+C:\00. SOA_SIN_BDD\02. SOAP_DOTNET_COMUNI_GR06\02. CLICON\02_ClienteConsola\bin\Debug\02_ClienteConsola.exe
+C:\00. SOA_SIN_BDD\02. SOAP_DOTNET_COMUNI_GR06\02. CLICON\02_ClienteConsola\bin\Debug\02_ClienteConsola.pdb
+C:\00. SOA_SIN_BDD\02. SOAP_DOTNET_COMUNI_GR06\02. CLICON\02_ClienteConsola\obj\Debug\02_ClienteConsola.csproj.AssemblyReference.cache
+C:\00. SOA_SIN_BDD\02. SOAP_DOTNET_COMUNI_GR06\02. CLICON\02_ClienteConsola\obj\Debug\02_ClienteConsola.csproj.CoreCompileInputs.cache
+C:\00. SOA_SIN_BDD\02. SOAP_DOTNET_COMUNI_GR06\02. CLICON\02_ClienteConsola\obj\Debug\02_ClienteConsola.exe
+C:\00. SOA_SIN_BDD\02. SOAP_DOTNET_COMUNI_GR06\02. CLICON\02_ClienteConsola\obj\Debug\02_ClienteConsola.pdb

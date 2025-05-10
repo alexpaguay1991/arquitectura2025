@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/editTextCm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingresa centímetros"
+        android:inputType="numberDecimal"
+        android:layout_marginBottom="16dp"/>
+
+    <EditText
+        android:id="@+id/editTextPulgadas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingresa pulgadas"
+        android:inputType="numberDecimal"
+        android:layout_below="@id/editTextCm"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/buttonConvertir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Convertir"
+        android:layout_below="@id/editTextPulgadas"/>
+
+    <TextView
+        android:id="@+id/textViewResultadoCmAPulgadas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Resultado de cm a pulgadas:"
+        android:layout_below="@id/buttonConvertir"
+        android:layout_marginTop="16dp"/>
+
+    <TextView
+        android:id="@+id/textViewResultadoPulgadasACm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Resultado de pulgadas a cm:"
+        android:layout_below="@id/textViewResultadoCmAPulgadas"/>
+
+</RelativeLayout>

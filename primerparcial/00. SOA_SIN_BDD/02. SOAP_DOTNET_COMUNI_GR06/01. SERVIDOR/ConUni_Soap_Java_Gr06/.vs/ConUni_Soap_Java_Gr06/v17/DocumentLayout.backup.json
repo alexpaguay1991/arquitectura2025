@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\01. SERVIDOR\\ConUni_Soap_Java_Gr06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2484A0-9E20-4AB4-98B3-390639352D72}|ConUni_Soap_Java_Gr06.csproj|c:\\00. soa_sin_bdd\\02. soap_dotnet_comuni_gr06\\01. servidor\\conuni_soap_java_gr06\\wsconuni.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2484A0-9E20-4AB4-98B3-390639352D72}|ConUni_Soap_Java_Gr06.csproj|solutionrelative:wsconuni.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2484A0-9E20-4AB4-98B3-390639352D72}|ConUni_Soap_Java_Gr06.csproj|C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\01. SERVIDOR\\ConUni_Soap_Java_Gr06\\ec.edu.gr06.modelo\\iconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2484A0-9E20-4AB4-98B3-390639352D72}|ConUni_Soap_Java_Gr06.csproj|solutionrelative:ec.edu.gr06.modelo\\iconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2484A0-9E20-4AB4-98B3-390639352D72}|ConUni_Soap_Java_Gr06.csproj|C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\01. SERVIDOR\\ConUni_Soap_Java_Gr06\\ec.edu.gr06.controlador\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2484A0-9E20-4AB4-98B3-390639352D72}|ConUni_Soap_Java_Gr06.csproj|solutionrelative:ec.edu.gr06.controlador\\conversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2484A0-9E20-4AB4-98B3-390639352D72}|ConUni_Soap_Java_Gr06.csproj|C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\01. SERVIDOR\\ConUni_Soap_Java_Gr06\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3B2484A0-9E20-4AB4-98B3-390639352D72}|ConUni_Soap_Java_Gr06.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WSConUni.asmx.cs",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\01. SERVIDOR\\ConUni_Soap_Java_Gr06\\WSConUni.asmx.cs",
+              "RelativeDocumentMoniker": "WSConUni.asmx.cs",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\01. SERVIDOR\\ConUni_Soap_Java_Gr06\\WSConUni.asmx.cs",
+              "RelativeToolTip": "WSConUni.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T02:10:58.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conversion.cs",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\01. SERVIDOR\\ConUni_Soap_Java_Gr06\\ec.edu.gr06.controlador\\Conversion.cs",
+              "RelativeDocumentMoniker": "ec.edu.gr06.controlador\\Conversion.cs",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\01. SERVIDOR\\ConUni_Soap_Java_Gr06\\ec.edu.gr06.controlador\\Conversion.cs",
+              "RelativeToolTip": "ec.edu.gr06.controlador\\Conversion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T02:14:58.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IConversion.cs",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\01. SERVIDOR\\ConUni_Soap_Java_Gr06\\ec.edu.gr06.modelo\\IConversion.cs",
+              "RelativeDocumentMoniker": "ec.edu.gr06.modelo\\IConversion.cs",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\01. SERVIDOR\\ConUni_Soap_Java_Gr06\\ec.edu.gr06.modelo\\IConversion.cs",
+              "RelativeToolTip": "ec.edu.gr06.modelo\\IConversion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T02:12:55.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\01. SERVIDOR\\ConUni_Soap_Java_Gr06\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\01. SERVIDOR\\ConUni_Soap_Java_Gr06\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-03T02:09:57.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

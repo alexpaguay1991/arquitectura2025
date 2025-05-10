@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|c:\\00. soa_sin_bdd\\02. soap_dotnet_comuni_gr06\\02. climov\\02_dotnetclientemovil\\vistas\\conversionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|solutionrelative:vistas\\conversionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|c:\\00. soa_sin_bdd\\02. soap_dotnet_comuni_gr06\\02. climov\\02_dotnetclientemovil\\vistas\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|solutionrelative:vistas\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|c:\\00. soa_sin_bdd\\02. soap_dotnet_comuni_gr06\\02. climov\\02_dotnetclientemovil\\vistas\\conversionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|solutionrelative:vistas\\conversionview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|c:\\00. soa_sin_bdd\\02. soap_dotnet_comuni_gr06\\02. climov\\02_dotnetclientemovil\\controlador\\convertidorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|solutionrelative:controlador\\convertidorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|c:\\00. soa_sin_bdd\\02. soap_dotnet_comuni_gr06\\02. climov\\02_dotnetclientemovil\\vistas\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|solutionrelative:vistas\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|c:\\00. soa_sin_bdd\\02. soap_dotnet_comuni_gr06\\02. climov\\02_dotnetclientemovil\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|c:\\00. soa_sin_bdd\\02. soap_dotnet_comuni_gr06\\02. climov\\02_dotnetclientemovil\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|solutionrelative:platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|c:\\00. soa_sin_bdd\\02. soap_dotnet_comuni_gr06\\02. climov\\02_dotnetclientemovil\\connected services\\servicereference1\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|solutionrelative:connected services\\servicereference1\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|c:\\00. soa_sin_bdd\\02. soap_dotnet_comuni_gr06\\02. climov\\02_dotnetclientemovil\\02_dotnetclientemovil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|solutionrelative:02_dotnetclientemovil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|c:\\00. soa_sin_bdd\\02. soap_dotnet_comuni_gr06\\02. climov\\02_dotnetclientemovil\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|solutionrelative:platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|c:\\00. soa_sin_bdd\\02. soap_dotnet_comuni_gr06\\02. climov\\02_dotnetclientemovil\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|c:\\00. soa_sin_bdd\\02. soap_dotnet_comuni_gr06\\02. climov\\02_dotnetclientemovil\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|c:\\00. soa_sin_bdd\\02. soap_dotnet_comuni_gr06\\02. climov\\02_dotnetclientemovil\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|c:\\00. soa_sin_bdd\\02. soap_dotnet_comuni_gr06\\02. climov\\02_dotnetclientemovil\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|c:\\00. soa_sin_bdd\\02. soap_dotnet_comuni_gr06\\02. climov\\02_dotnetclientemovil\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8846820D-0B00-4487-AAA9-EC5BCAE38E61}|02_DotnetClienteMovil.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Vistas\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Vistas\\LoginView.xaml",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Vistas\\LoginView.xaml",
+              "RelativeToolTip": "Vistas\\LoginView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-10T21:19:00.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Vistas\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "Vistas\\LoginView.xaml.cs",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Vistas\\LoginView.xaml.cs",
+              "RelativeToolTip": "Vistas\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:01:04.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConnectedService.json",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Connected Services\\ServiceReference1\\ConnectedService.json",
+              "RelativeDocumentMoniker": "Connected Services\\ServiceReference1\\ConnectedService.json",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Connected Services\\ServiceReference1\\ConnectedService.json",
+              "RelativeToolTip": "Connected Services\\ServiceReference1\\ConnectedService.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T21:53:41.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T21:30:31.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T21:30:26.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-09T21:30:18.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:39:13.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T19:39:07.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConversionView.xaml.cs",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Vistas\\ConversionView.xaml.cs",
+              "RelativeDocumentMoniker": "Vistas\\ConversionView.xaml.cs",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Vistas\\ConversionView.xaml.cs",
+              "RelativeToolTip": "Vistas\\ConversionView.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:53:46.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConversionView.xaml",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Vistas\\ConversionView.xaml",
+              "RelativeDocumentMoniker": "Vistas\\ConversionView.xaml",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Vistas\\ConversionView.xaml",
+              "RelativeToolTip": "Vistas\\ConversionView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T15:53:41.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConvertidorController.cs",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Controlador\\ConvertidorController.cs",
+              "RelativeDocumentMoniker": "Controlador\\ConvertidorController.cs",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\Controlador\\ConvertidorController.cs",
+              "RelativeToolTip": "Controlador\\ConvertidorController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:34:04.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:00:30.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T13:51:43.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\User\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.100\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AgIAAGgCAAAAAAAAAADgv3YCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-09T01:27:25.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "02_DotnetClienteMovil.csproj",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\02_DotnetClienteMovil.csproj",
+              "RelativeDocumentMoniker": "02_DotnetClienteMovil.csproj",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\02_DotnetClienteMovil.csproj",
+              "RelativeToolTip": "02_DotnetClienteMovil.csproj",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T01:15:34.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\00. SOA_SIN_BDD\\02. SOAP_DOTNET_COMUNI_GR06\\02. CLIMOV\\02_DotnetClienteMovil\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:26:40.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

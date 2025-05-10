@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="_02_DotnetClienteMovil.Vistas.LoginView"
+             >
+    <Grid RowDefinitions="0.5*, 0.5*">
+        <Image Aspect="AspectFill" Source="espe_sangolgui.jpg" Grid.Row="0" />
+
+        <Grid Grid.Row="1"  Padding="20,5,20,20" Background="White"
+              >
+            <RoundRectangle Margin="-10,-20,-10,-20"
+                            CornerRadius="10,10,0,0"
+                            Fill="Black"
+                            Opacity="0.6"/>
+            
+            <VerticalStackLayout Spacing="20"
+                                 >
+                <Label FontAttributes="Bold"
+                       FontSize="Medium"
+                       Text="Iniciar sesión"
+                       TextColor="#2D2D2D"
+                       HorizontalOptions="Center" />
+
+                <Label Text="Ingrese los campos requeridos"
+                       TextColor="White"
+                       HorizontalOptions="Center" />
+
+                <Grid ColumnDefinitions="0.20*, 0.8*">
+                    <BoxView Color="#FFC312"   
+                             BackgroundColor="Transparent"
+                             
+                         CornerRadius="10,0,10,0"
+                         Margin="0,-30,0,0"
+                         HeightRequest="50"
+                         VerticalOptions="End"
+                         HorizontalOptions="Fill" />
+                    <Image Source="sobres.png" 
+                           BackgroundColor="#FFC312"
+                           HeightRequest="40"
+                           WidthRequest="40"
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center" />
+                    <Entry x:Name="userEntry"
+                           Grid.Column="1"
+                           Placeholder="USUARIO"
+                           VerticalOptions="Center"
+                           BackgroundColor="#F0F0F0"
+                           HeightRequest="40"
+                           Margin="10,0" />
+                </Grid>
+
+                <Grid ColumnDefinitions="0.20*, 0.80*">
+                    <BoxView Color="#FFC312"
+                              BackgroundColor="Transparent"
+                         CornerRadius="10,0,10,0"
+                         Margin="0,-30,0,0"
+                         HeightRequest="50"
+                         VerticalOptions="End"
+                         HorizontalOptions="Fill" />
+                    <Image Source="llave.png" 
+                           BackgroundColor="#FFC312"
+                           HeightRequest="40"
+                           WidthRequest="40"
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center" />
+                    <Entry x:Name="passwordEntry"
+                           Grid.Column="1"
+                           Placeholder="CONTRASEÑA"
+                           IsPassword="True"
+                           VerticalOptions="Center"
+                           BackgroundColor="#F0F0F0"
+                           HeightRequest="40"
+                           Margin="10,0" />
+                </Grid>
+
+                <Button Text="Login"
+                        BackgroundColor="#FFC312"
+                        TextColor="Black"
+                        
+                        HeightRequest="50"
+                        WidthRequest="160"
+                        CornerRadius="25" 
+                        Clicked="OnLoginButtonClicked"/>
+            </VerticalStackLayout>
+        </Grid>
+    </Grid>
+</ContentPage>

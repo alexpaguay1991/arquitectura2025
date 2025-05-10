@@ -1,0 +1,131 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Conversión de Unidades</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('https://santodomingo.espe.edu.ec/wp-content/uploads/2019/12/Espe-Sangolgui-V1.jpg');
+            background-size: cover; /* Asegura que la imagen cubra todo el fondo */
+            background-position: center; /* Centra la imagen */
+            background-repeat: no-repeat; /* Evita que la imagen se repita */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.9);
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        input {
+            width: 80%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            padding: 10px 15px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+            button:hover {
+                background-color: #0056b3;
+            }
+
+        #result {
+            margin-top: 20px;
+            font-size: 1.2em;
+            color: #007bff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Conversión de Unidades</h2>
+        <div>
+            <label for="cm">Centímetros:</label>
+            <input type="number" id="cm" placeholder="Ingrese centímetros" />
+            <button type="button" onclick="convertToInches()">Convertir a Pulgadas</button>
+        </div>
+        <div>
+            <label for="inches">Pulgadas:</label>
+            <input type="number" id="inches" placeholder="Ingrese pulgadas" />
+            <button type="button" onclick="convertToCm()">Convertir a Centímetros</button>
+        </div>
+        <p id="result"></p>
+        <button id="logoutButton">Cerrar Sesión</button>
+    </div>
+    <script>
+        document.getElementById("logoutButton").onclick = function() {
+            // Redirige a la acción de Login en el controlador Acceso
+            window.location.href = '@Url.Action("CerrarSesion", "Home")';
+        };
+    </script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script>
+    function convertToInches() {
+        var cm = document.getElementById("cm").value;
+        if (cm) {
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("ConvertirCentimetrosAPulgadas", "Home")',
+                data: { centimetros: cm },
+                success: function (inches) {
+                    document.getElementById("result").innerText = cm + " cm son " + inches.toFixed(2) + " pulgadas.";
+                },
+                error: function () {
+                    document.getElementById("result").innerText = "Error en la conversión.";
+                }
+            });
+        } else {
+            document.getElementById("result").innerText = "Por favor, ingresa un valor en centímetros.";
+        }
+    }
+
+    function convertToCm() {
+        var inches = document.getElementById("inches").value;
+        if (inches) {
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("ConvertirPulgadasACentimetros", "Home")',
+                data: { pulgadas: inches },
+                success: function (cm) {
+                    document.getElementById("result").innerText = inches + " pulgadas son " + cm.toFixed(2) + " cm.";
+                },
+                error: function () {
+                    document.getElementById("result").innerText = "Error en la conversión.";
+                }
+            });
+        } else {
+            document.getElementById("result").innerText = "Por favor, ingresa un valor en pulgadas.";
+        }
+    }
+    </script>
+
+</body>
+</html>
